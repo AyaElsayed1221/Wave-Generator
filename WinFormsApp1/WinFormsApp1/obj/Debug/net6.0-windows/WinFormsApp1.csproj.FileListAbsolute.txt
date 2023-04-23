@@ -1,0 +1,78 @@
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\bonas lab2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\acer\OneDrive\Documents\4th\1st term\CI\lab\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\lenovo\OneDrive\Desktop\lab4\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
